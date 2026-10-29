@@ -28,6 +28,8 @@ Problem: after triage in public emergency units, patients can wait for hours wit
 
 *Interviewee names are hidden to protect their privacy.*
 
+> If a PDF preview does not load, click **Download raw file** (the download icon at the top right of the file view).
+
 ---
 
 ## 3. HealthHack 2026 – Groote Schuur Hospital (11 – 13 September 2026)
